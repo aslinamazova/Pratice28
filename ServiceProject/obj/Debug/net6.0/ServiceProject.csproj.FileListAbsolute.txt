@@ -1,0 +1,15 @@
+C:\Users\CA.R215.09\Desktop\ServiceProject\bin\Debug\net6.0\ServiceProject.exe
+C:\Users\CA.R215.09\Desktop\ServiceProject\bin\Debug\net6.0\ServiceProject.deps.json
+C:\Users\CA.R215.09\Desktop\ServiceProject\bin\Debug\net6.0\ServiceProject.runtimeconfig.json
+C:\Users\CA.R215.09\Desktop\ServiceProject\bin\Debug\net6.0\ServiceProject.dll
+C:\Users\CA.R215.09\Desktop\ServiceProject\bin\Debug\net6.0\ServiceProject.pdb
+C:\Users\CA.R215.09\Desktop\ServiceProject\obj\Debug\net6.0\ServiceProject.csproj.AssemblyReference.cache
+C:\Users\CA.R215.09\Desktop\ServiceProject\obj\Debug\net6.0\ServiceProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\CA.R215.09\Desktop\ServiceProject\obj\Debug\net6.0\ServiceProject.AssemblyInfoInputs.cache
+C:\Users\CA.R215.09\Desktop\ServiceProject\obj\Debug\net6.0\ServiceProject.AssemblyInfo.cs
+C:\Users\CA.R215.09\Desktop\ServiceProject\obj\Debug\net6.0\ServiceProject.csproj.CoreCompileInputs.cache
+C:\Users\CA.R215.09\Desktop\ServiceProject\obj\Debug\net6.0\ServiceProject.dll
+C:\Users\CA.R215.09\Desktop\ServiceProject\obj\Debug\net6.0\refint\ServiceProject.dll
+C:\Users\CA.R215.09\Desktop\ServiceProject\obj\Debug\net6.0\ServiceProject.pdb
+C:\Users\CA.R215.09\Desktop\ServiceProject\obj\Debug\net6.0\ServiceProject.genruntimeconfig.cache
+C:\Users\CA.R215.09\Desktop\ServiceProject\obj\Debug\net6.0\ref\ServiceProject.dll

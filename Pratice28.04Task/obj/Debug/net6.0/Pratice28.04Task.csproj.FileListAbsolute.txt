@@ -1,0 +1,15 @@
+C:\Users\CA.R215.09\Desktop\Pratice28.04Task\bin\Debug\net6.0\Pratice28.04Task.exe
+C:\Users\CA.R215.09\Desktop\Pratice28.04Task\bin\Debug\net6.0\Pratice28.04Task.deps.json
+C:\Users\CA.R215.09\Desktop\Pratice28.04Task\bin\Debug\net6.0\Pratice28.04Task.runtimeconfig.json
+C:\Users\CA.R215.09\Desktop\Pratice28.04Task\bin\Debug\net6.0\Pratice28.04Task.dll
+C:\Users\CA.R215.09\Desktop\Pratice28.04Task\bin\Debug\net6.0\Pratice28.04Task.pdb
+C:\Users\CA.R215.09\Desktop\Pratice28.04Task\obj\Debug\net6.0\Pratice28.04Task.csproj.AssemblyReference.cache
+C:\Users\CA.R215.09\Desktop\Pratice28.04Task\obj\Debug\net6.0\Pratice28.04Task.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\CA.R215.09\Desktop\Pratice28.04Task\obj\Debug\net6.0\Pratice28.04Task.AssemblyInfoInputs.cache
+C:\Users\CA.R215.09\Desktop\Pratice28.04Task\obj\Debug\net6.0\Pratice28.04Task.AssemblyInfo.cs
+C:\Users\CA.R215.09\Desktop\Pratice28.04Task\obj\Debug\net6.0\Pratice28.04Task.csproj.CoreCompileInputs.cache
+C:\Users\CA.R215.09\Desktop\Pratice28.04Task\obj\Debug\net6.0\Pratice28.04Task.dll
+C:\Users\CA.R215.09\Desktop\Pratice28.04Task\obj\Debug\net6.0\refint\Pratice28.04Task.dll
+C:\Users\CA.R215.09\Desktop\Pratice28.04Task\obj\Debug\net6.0\Pratice28.04Task.pdb
+C:\Users\CA.R215.09\Desktop\Pratice28.04Task\obj\Debug\net6.0\Pratice28.04Task.genruntimeconfig.cache
+C:\Users\CA.R215.09\Desktop\Pratice28.04Task\obj\Debug\net6.0\ref\Pratice28.04Task.dll
